@@ -1,7 +1,7 @@
  class and objects(example).
- class jas data/attributes and func/methods. 
+ class has data/attributes and func/methods. 
     -> code walkthrough
-    -> attributes are called manually
+    -> attributes gets called itself,methods are called manually
 why python is called OOP? 
 --> everything in python whether its list,string,tuple etc all are class
 --> every inbuilt function that we call in list,string etc, like list.size() or anything similar.. all are methods written in string class
