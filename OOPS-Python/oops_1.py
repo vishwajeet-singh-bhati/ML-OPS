@@ -1,6 +1,9 @@
 #initate a class
 class employee:
     #special method/magic method/dunder method - constructor
+    #below things are just for example irl we use constructor for methods that needs to be executed by default
+    # when we open facebook we get connected to database automatically user dont need to do that sp thats a real life example
+    
     def __init__(self):
         print("started executing attributes/data")
         self.id =123

@@ -1,4 +1,14 @@
-1. class and objects(example).
-2. class jas data/attributes and func/methods. 
--> code walkthrough
--> attributes are called manually
+ class and objects(example).
+ class jas data/attributes and func/methods. 
+    -> code walkthrough
+    -> attributes are called manually
+why python is called OOP? 
+--> everything in python whether its list,string,tuple etc all are class
+--> every inbuilt function that we call in list,string etc, like list.size() or anything similar.. all are methods written in string class
+--> everything  in python is an object whether its data structure, data type etc 
+
+advantages of OOPS:
+    -> you can create your own datatype
+    -> code reusabilty
+    -> debugging
+    -> easy to collab
