@@ -1,0 +1,4 @@
+1. class and objects(example).
+2. class jas data/attributes and func/methods. 
+-> code walkthrough
+-> attributes are called manually
